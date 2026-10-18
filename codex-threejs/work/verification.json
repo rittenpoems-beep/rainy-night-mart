@@ -1,0 +1,95 @@
+{
+  "device": {
+    "version": "WebGL 2.0 (OpenGL ES 3.0 Chromium)",
+    "renderer": "ANGLE (Intel, Intel(R) UHD Graphics (0x000046A3) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "stats": {
+      "three": "170",
+      "frames": 21,
+      "elapsed": 0.5398000000007451,
+      "primitives": 2101,
+      "drawCalls": 255,
+      "triangles": 247038,
+      "geometries": 93,
+      "textures": 36,
+      "doorOpen": 0,
+      "viewport": [
+        1440,
+        1080
+      ],
+      "pixelRatio": 1
+    }
+  },
+  "offline": true,
+  "externalRequests": [],
+  "errors": [],
+  "doorCycle": [
+    {
+      "time": 2,
+      "x": [
+        -0.585,
+        0.585
+      ],
+      "open": 0
+    },
+    {
+      "time": 7,
+      "x": [
+        -1.495,
+        1.495
+      ],
+      "open": 1
+    },
+    {
+      "time": 12,
+      "x": [
+        -0.585,
+        0.585
+      ],
+      "open": 0
+    },
+    {
+      "time": 22,
+      "x": [
+        -1.495,
+        1.495
+      ],
+      "open": 1
+    }
+  ],
+  "interactions": {
+    "rotate": true,
+    "zoom": true,
+    "pan": true
+  },
+  "renderedAnimationFramesDiffer": true,
+  "initialPlinthBoundsNDC": {
+    "minX": -0.8176553797893923,
+    "maxX": 0.7337069171243334,
+    "minY": -0.8990744611642262,
+    "maxY": 0.22336150829310564
+  },
+  "portrait": {
+    "stats": {
+      "three": "170",
+      "frames": 376,
+      "elapsed": 0.5898000000007452,
+      "primitives": 2101,
+      "drawCalls": 255,
+      "triangles": 247038,
+      "geometries": 93,
+      "textures": 36,
+      "doorOpen": 1,
+      "viewport": [
+        720,
+        960
+      ],
+      "pixelRatio": 1
+    },
+    "aspect": 0.75,
+    "canvas": [
+      720,
+      960
+    ]
+  },
+  "measuredFps": 36.9
+}
